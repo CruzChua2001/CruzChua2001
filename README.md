@@ -6,7 +6,7 @@
 ### <div align="center">I'm Cruz, final year student in Nanyang Polytechnic 📚 working as a Software Developer in URA 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Media Library](https://github.com/uraisg/media-library-azure) and [EdiCoach](https://github.com/CruzChua2001/EdiCoach)
+- 🔭 I’m currently working on [Media Library](https://github.com/uraisg/media-library-azure)
   
 
 - 🌱 I’m currently learning Java and other front-end libraries  
