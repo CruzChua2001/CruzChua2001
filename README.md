@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Cruz, final year student in Nanyang Polytechnic 📚 working as a Software Developer in URA 👨‍💻</div>  
+### <div align="center">I'm Cruz, Fresh Graduate from Nanyang Polytechnic 📚 currently serving National Service 👮🏻‍♀️</div>  
   
 
-- 🔭 I’m currently working on [Media Library](https://github.com/uraisg/media-library-azure) & [My Portfolio Website](https://github.com/CruzChua2001/CruzChua2001-Portfolio)
+- 🔭 I’m currently working on [My Portfolio Website](https://github.com/CruzChua2001/CruzChua2001-Portfolio)
   
 
 - 🌱 I’m currently learning Java and other front-end libraries  
