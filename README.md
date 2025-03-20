@@ -6,16 +6,16 @@
 ### <div align="center">I'm Cruz, Fresh Graduate from Nanyang Polytechnic 📚 currently serving National Service 👮🏻‍♀️</div>  
   
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/CruzChua2001/CruzChua2001-Portfolio)
+- 🔭 I’m currently doing some coding practice over [here](https://github.com/CruzChua2001/Coding_Practice)
   
 
-- 🌱 I’m currently learning Java and other front-end libraries  
+- 🌱 I’m currently learning Next.JS and other front-end tools  
   
 
 - ❓ Ask me about anything related to front-end design and development  
   
 
-- ⚡ TMI: I want to play foosball professionally  
+- ⚡ TMI: I love playing professional foosball
   
 
 <br/>  
