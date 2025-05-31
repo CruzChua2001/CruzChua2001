@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cruz, Fresh Graduate from Nanyang Polytechnic 📚 currently serving National Service 👮🏻‍♀️</div>  
+### <div align="center">I'm Cruz, SMU's Software Engineering Undergraduate 📚 working as a Software Engineer Intern at Singapore Red Cross 🧑🏻‍💻</div>  
   
 
 - 🔭 I’m currently doing some coding practice over [here](https://github.com/CruzChua2001/Coding_Practice)
